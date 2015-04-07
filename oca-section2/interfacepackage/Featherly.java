@@ -1,0 +1,5 @@
+package interfacepackage;
+
+interface Featherly {
+
+}
