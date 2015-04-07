@@ -1,15 +1,16 @@
 package chap1;
 
 public abstract class AbstractClassSuper {
-	private int c = 1;
+	private int counter = 1;
 
-	public int getC() {
-		return c;
+	public int getCounter() {
+		return counter;
 	}
 
-	public void setC(int c) {
-		this.c = c;
+	public void setCounter(int c) {
+		this.counter = c;
 	}
+
 	public abstract void trial();
-	
+
 }
