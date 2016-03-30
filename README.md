@@ -1,2 +1,3 @@
 # udemy-oca-java
-Udemy, OCA For Java SE 7
+Source code for Udemy, OCA For Java SE 7.
+This course is a work in progress.

@@ -1,5 +1,0 @@
-package interfacepackage;
-
-interface Featherly {
-
-}
